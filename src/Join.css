@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+.joinOuterContainer{
+    background-color: #242F40;
+    color: #d5d5d8;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.joinInnerContainer{
+    text-align: center;
+    font-size: 35px;
+}
+.joinInput{
+    width: 250px;
+}

@@ -1,0 +1,13 @@
+.inputBar{
+    width: 100vw;
+    height: 5vh;
+}
+.input{
+    height: 100%;
+    width: 85%;
+}
+.sendButton{
+    width: 15%;
+    height: 100%;
+    
+}
